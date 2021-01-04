@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Story Ideas 3</string>
+    <string name="app_name">Story Idea Generator</string>
     <string name="part1">Create a story whose main character is </string>
     <string name="part3"> using </string>
     <string name="part5"> and where a major event is </string>
-    <string name="next">Next</string>
+    <string name="next">Generate Idea</string>
 </resources>
